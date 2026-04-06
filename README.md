@@ -12,3 +12,6 @@ The main objective of this project is to understand and implement the full ASIC 
 The adder-subtractor is designed without using a predefined full adder module. Instead, the functionality is implemented using basic logic gates such as XOR, AND, and OR, making the design fully synthesizable and suitable for ASIC implementation.
 
 The design flow includes RTL simulation using Synopsys VCS, synthesis using Design Compiler, and physical design (placement and routing) using IC Compiler II (ICC2). Timing verification is performed using PrimeTime to ensure that the design meets timing constraints.
+
+<img width="1366" height="768" alt="Screenshot from 2026-04-05 07-33-42" src="https://github.com/user-attachments/assets/197740b7-7ef7-4b4f-8799-ec3a1b13a952" />
+
