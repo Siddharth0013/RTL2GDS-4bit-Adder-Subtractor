@@ -1,4 +1,4 @@
-# RTL TO GDSII: 4-bit Adder-Subtractor
+<img width="800" height="1300" alt="Gemini_Generated_Image_s39hl1s39hl1s39h" src="https://github.com/user-attachments/assets/cc6614d9-097d-4315-8ca8-dd22408afdc1" /># RTL TO GDSII: 4-bit Adder-Subtractor
 
 ##  Author
 Siddharth Rana  
@@ -19,6 +19,16 @@ The design flow includes RTL simulation using Synopsys VCS, synthesis using Desi
 ROCKY LINUX 8: The operating system environment in which Synopsys tools are employed
 
 ## TOOLS USED
-•VERILOG HDL: The RTL of the sequence detector was designed using the Hardware Description Language.
+• VERILOG HDL: The RTL of the sequence detector was designed using the Hardware Description Language.
 
-•SYNOPSYS LIBRARIES: Contains tools like Verilog Compiler Simulator, Design Compiler, Prime Time, IC Compiler II, etc.
+• SYNOPSYS LIBRARIES: Contains tools like vivado, Design Compiler, Prime Time, IC Compiler II, etc.
+
+## FLOW OF THE PROJECT
+
+<img width="800" height="1300" alt="Gemini_Generated_Image_s39hl1s39hl1s39h" src="https://github.com/user-attachments/assets/dcc6bbb6-a493-4133-82cb-5c72f1281f11" />
+
+## COMMANDS USED
+
+### ENVIRONMENT VERIFICATION 
+
+Check to see if the Synopsys tools are installed successfully and in the system path:
