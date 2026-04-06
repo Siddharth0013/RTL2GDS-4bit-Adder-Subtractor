@@ -1,0 +1,6 @@
+./outputs/as_4bit.spef.p1_125.spef for scenarios: 
+	 scenario: func::nom, corner type: late
+
+./outputs/as_4bit.spef.p2_125.spef for scenarios: 
+	 scenario: func::nom, corner type: early
+

@@ -1,0 +1,11 @@
+#@ # 
+#@ # Running icc2_shell Version W-2024.09 for linux64 -- Aug 25, 2024
+#@ # Date:   Sun Apr  5 07:58:28 2026
+#@ # Run by: student@ict-chipin.sot.pdpu.ac.in
+#@ 
+
+source scripts/01_setup.tcl
+cd ..
+source scripts/01_setup.tcl
+source scripts/02
+source scripts/02_netlist_read.tcl

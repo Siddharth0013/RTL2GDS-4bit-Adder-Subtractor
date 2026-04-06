@@ -1,0 +1,18 @@
+<Database>
+versionNumber:2
+Name/home/student/Downloads/Workshop/ICCII/check_design.ems
+Creation TimeSun Apr  5 08:01:40 2026
+Modified TimeSun Apr  5 08:01:40 2026
+Design Nameas_4bit
+Library NameAS_4BIT_LIB
+</Database>
+<RuleCount>
+DFT-0111
+MV-0271
+</RuleCount>
+<UserDefinedRules>
+</UserDefinedRules>
+<Messages>
+DFT-011Informationreason10
+MV-027WarningtieNet*Logic1*1[ get_net { *Logic1* } ]8
+</Messages>
