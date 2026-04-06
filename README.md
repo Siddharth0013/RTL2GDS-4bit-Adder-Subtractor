@@ -32,3 +32,13 @@ ROCKY LINUX 8: The operating system environment in which Synopsys tools are empl
 ### ENVIRONMENT VERIFICATION 
 
 Check to see if the Synopsys tools are installed successfully and in the system path:
+## 🛠 Check Synopsys Tool Installation
+
+To verify that Synopsys tools are installed and available in the system path, run the following commands:
+
+```bash
+which vcs
+which verdi
+which dc_shell
+which icc2_shell
+which pt_shell
