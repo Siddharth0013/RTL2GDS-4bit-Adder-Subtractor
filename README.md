@@ -13,5 +13,7 @@ The adder-subtractor is designed without using a predefined full adder module. I
 
 The design flow includes RTL simulation using Synopsys VCS, synthesis using Design Compiler, and physical design (placement and routing) using IC Compiler II (ICC2). Timing verification is performed using PrimeTime to ensure that the design meets timing constraints.
 
-<img width="1366" height="768" alt="Screenshot from 2026-04-05 07-33-42" src="https://github.com/user-attachments/assets/197740b7-7ef7-4b4f-8799-ec3a1b13a952" />
+<img width="1267" height="449" alt="Screenshot from 2026-04-05 07-33-42" src="https://github.com/user-attachments/assets/4d681a2c-2853-4854-90ae-3642978d08c9" />
 
+#ENVIRONMENT USED
+ROCKY LINUX 8: The operating system environment in which Synopsys tools are employed
