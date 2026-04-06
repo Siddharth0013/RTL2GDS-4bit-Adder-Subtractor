@@ -15,5 +15,5 @@ The design flow includes RTL simulation using Synopsys VCS, synthesis using Desi
 
 <img width="1267" height="449" alt="Screenshot from 2026-04-05 07-33-42" src="https://github.com/user-attachments/assets/4d681a2c-2853-4854-90ae-3642978d08c9" />
 
-#ENVIRONMENT USED
-ROCKY LINUX 8: The operating system environment in which Synopsys tools are employed
+# ENVIRONMENT USED
+## ROCKY LINUX 8: The operating system environment in which Synopsys tools are employed
