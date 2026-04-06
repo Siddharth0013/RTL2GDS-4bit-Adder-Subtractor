@@ -1,4 +1,4 @@
-<img width="800" height="1300" alt="Gemini_Generated_Image_s39hl1s39hl1s39h" src="https://github.com/user-attachments/assets/cc6614d9-097d-4315-8ca8-dd22408afdc1" /># RTL TO GDSII: 4-bit Adder-Subtractor
+# RTL TO GDSII: 4-bit Adder-Subtractor
 
 ##  Author
 Siddharth Rana  
