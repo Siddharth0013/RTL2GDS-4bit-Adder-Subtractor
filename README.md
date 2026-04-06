@@ -17,3 +17,7 @@ The design flow includes RTL simulation using Synopsys VCS, synthesis using Desi
 
 ## ENVIRONMENT USED
 ROCKY LINUX 8: The operating system environment in which Synopsys tools are employed
+
+## TOOLS USED
+•VERILOG HDL: The RTL of the sequence detector was designed using the Hardware Description Language.
+•SYNOPSYS LIBRARIES: Contains tools like Verilog Compiler Simulator, Design Compiler, Prime Time, IC Compiler II, etc.
